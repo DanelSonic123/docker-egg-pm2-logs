@@ -3,13 +3,13 @@ The Pterodactyl eggs for nodejs with pm2 logs
 
 ### [Nodejs with pm2 logs](/nodejs)
 
-* [`node14`](/nodejs/14)
+* [`node14`](/14)
   * `ghcr.io/danelsonic123/nodejspm2:14`
-* [`node16`](/nodejs/16)
+* [`node16`](/16)
   * `ghcr.io/danelsonic123/nodejspm2:16`
-* [`node18`](/nodejs/18)
+* [`node18`](/18)
   * `ghcr.io/danelsonic123/nodejspm2:18`
-* [`node19`](/nodejs/19)
+* [`node19`](/19)
   * `ghcr.io/danelsonic123/nodejspm2:19`
 
 ### Unsupported
